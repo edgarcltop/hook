@@ -14,8 +14,6 @@
 
 ## About The Project
 
-[![hookcn Screen Shot][product-screenshot]](https://hookcn.ouassim.tech)
-
 This project offers a collection of reusable React hooks to simplify common tasks like state management, timeouts, and element visibility. Inspired by [shadcn/ui](https://ui.shadcn.com), it lets you copy hooks directly or use a the [shadcn/ui CLI](https://ui.shadcn.com/docs/cli) for easy integration. Each hook is designed with best practices for clean, efficient, and maintainable code.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
