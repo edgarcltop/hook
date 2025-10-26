@@ -6,24 +6,9 @@
   A collection of reusable react hooks that you can easily copy and paste into your apps or add directly through the shadcn CLI.
   <br />
   <br />
-  <a href="https://hookcn.ouassim.tech" target="_blank">Demo</a>
-  ·
-  <a href="https://github.com/strlrd-29/hookcn/issues/new">Report Bug</a>
-  ·
-  <a href="https://github.com/strlrd-29/hookcn/issues/new">Request Feature</a>
+
 </p>
 
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [About The Project](#about-the-project)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
 
 <!-- ABOUT THE PROJECT -->
 
