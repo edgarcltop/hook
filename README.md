@@ -38,7 +38,6 @@ This project provides a collection of enhanced reusable React hooks to simplify 
    pnpm install
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
 
