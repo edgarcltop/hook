@@ -9,12 +9,11 @@
 
 </p>
 
-
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
-This project offers a collection of reusable React hooks to simplify common tasks like state management, timeouts, and element visibility. Inspired by [shadcn/ui](https://ui.shadcn.com), it lets you copy hooks directly or use a the [shadcn/ui CLI](https://ui.shadcn.com/docs/cli) for easy integration. Each hook is designed with best practices for clean, efficient, and maintainable code.
+This project provides a collection of enhanced reusable React hooks to simplify common tasks like state management, timeouts, and element visibility. Inspired by [shadcn/ui](https://ui.shadcn.com), it lets you copy hooks directly or use a the [shadcn/ui CLI](https://ui.shadcn.com/docs/cli) for easy integration. Each hook is designed with best practices for clean, efficient, and maintainable code.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,31 +72,3 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTACT -->
-
-## Contact
-
-Ghribi Ouassim Abdelmalek - [@strlrd29](https://twitter.com/strlrd29) - <me@ouassim.tech>
-
-Project Link: [hookcn.ouassim.tech](https://hookcn.ouassim.tech)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-- [usehook-ts](https://usehooks-ts.com/)
-- [usehooks](https://usehooks.com/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-[product-screenshot]: public/hero.png
